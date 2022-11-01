@@ -162,6 +162,7 @@ pnordboj
 main
 - [Chris Johannesson](https://chrisjohannesson.com)
 - [Archishman Das](https://github.com/starving-array)
+- [Hanike Treisce](https://github.com/hanike)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Mohamed O Nar] (https://github.com/mohamedonar)
 - [Othmane Baqacha] (https://github.com/bqotm)
